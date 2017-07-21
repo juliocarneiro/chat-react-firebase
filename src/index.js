@@ -5,12 +5,12 @@ import App from './App';
 import * as firebase from 'firebase';
 
 const config = {
-    apiKey: "AIzaSyBnFPPnQXLUGCLygiCj5Lu8MK7GviPRl7E",
-    authDomain: "chatroom-3780c.firebaseapp.com",
-    databaseURL: "https://chatroom-3780c.firebaseio.com",
-    projectId: "chatroom-3780c",
+    apiKey: "suas informações do firebase",
+    authDomain: "suas informações do firebase",
+    databaseURL: "suas informações do firebase",
+    projectId: "suas informações do firebase",
     storageBucket: "",
-    messagingSenderId: "1084922405235"
+    messagingSenderId: "suas informações do firebase"
 };
 
 firebase.initializeApp(config);
